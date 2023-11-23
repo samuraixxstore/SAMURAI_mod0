@@ -1,13 +1,14 @@
 body{
     background: linear-gradient( #01012e,#240019);
-
+height: 100vh;
     font-family: 'Courier New', Courier, monospace;
 }
 div{
     display: flex;
     flex-flow: column wrap;
     margin: 8px;
-    width: 190px;
+    width: 160px;
+    height: 90vh;
     background-color: rgba(74, 1, 59, 0.603);
     display: inline-flex;
     background: url(stars1.png);
